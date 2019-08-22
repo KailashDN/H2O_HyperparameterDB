@@ -7,7 +7,7 @@ Our aim is to find proper hyperparameter with proper tuning for our dataset whic
 Background Research:
 Hyperparameters are variables that we need to set before applying a learning algorithm to a dataset. In machine learning scenarios, a significant part of model performance depends on the hyperparameter values selected. The goal of hyperparameter exploration is to search across various hyperparameter configurations to find the one that results in the optimal performance. The challenge with hyperparameters is that there are no magic number that works everywhere. The best numbers depend on each task and each dataset. The hyperparameter database to be developed as a part of this project is an open resource with algorithms, tools, and data that allows users to visualize and understand how to choose hyperparameters that maximize the predictive power of their models. Phase I of the project involves selecting a unique dataset containing predicted target variables, hyperparameters, meta-data etc. by running different models (with varying hyperparameters) on it using H2O.
 
-## cHyperparameters can be divided into 2 categories: 
+## Hyperparameters can be divided into 2 categories: 
 
 ## Optimizer hyperparameters
 They are related more to the optimization and training process
